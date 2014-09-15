@@ -26,7 +26,7 @@ This is not Nulled.. It doesn't have a license bypass! It is a FREE RELEASE VERS
 Please create your empty database first (fusioncms or whatever) before visiting localhost or
 your IP/Domain as you will not be able to complete the installation and it can be a pain!
 
-## OpenCataclysm Installation:
+## [OpenCataclysm Installation](https://github.com/cbunting99/OpenCataclysm):
 1. Create fusioncms empty database!
 2. In the worldserver console, type .account create youusername password (For your FusionCMS Admin)
 3. Process to visit localhost/IP/Domain..
