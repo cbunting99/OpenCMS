@@ -15,7 +15,7 @@ The Free Version of FusionCMS is being modified for use with my OpenCataclysm Pr
 However, this will still install and work for most trinitycore servers as far as I am
 aware.. Such as 3.3.5a, 4.3.4, and possibly MOP.
 
-## NOTICE/ THIS ISN'T NULLED / NO LICENSE BYPASS:
+## NOTICE / THIS ISN'T NULLED / NO LICENSE BYPASS:
 
 This is not Nulled.. It doesn't have a license bypass! It is a FREE RELEASE VERSION!
 
