@@ -31,3 +31,6 @@ your IP/Domain as you will not be able to complete the installation and it can b
 
 
 These steps should be simular for all other TinityCore Servers. I haven't tested all of the included Emulator Connectors.
+
+
+![logo](http://i.imgur.com/SIkI3Cx.jpg)
