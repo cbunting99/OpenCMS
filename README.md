@@ -16,9 +16,9 @@ aware.. Such as 3.3.5a, 4.3.4, and possibly MOP.
 
 -----------------------------------------------------------------------------------------
 
-## Installtion:
+## Installation:
 
-Please create your empty database first (fusioncms or whaever) before visiting localhost or
+Please create your empty database first (fusioncms or whatever) before visiting localhost or
 your IP/Domain as you will not be able to complete the installation and it can be a pain!
 
 ## OpenCataclysm Installation:
